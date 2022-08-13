@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "81-DyMXy6tL._SX679_PIbundle-64,TopRight,0,0_AA679SH20_.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
